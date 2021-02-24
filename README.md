@@ -1,10 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=safrapc&show_icons=true&theme=dark" alt="SafraPC Stats" height=175 />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safrapc&layout=compact&show_icons=true&theme=dark" alt="SafraPC Stats" height=175 />
+  </span>
+</p>
+
+<p align="center">
+  <a href="mailto:leandrosafra.jconectada@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=0000&color=black&link=mailto:leandrosafra.jconectada@gmail.com"  />
+  </a>
+  <a href="linkedin.com/in/leandrosz134/">
+    <img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=blue&color=black&link=https://github.com/safrapc"/>
+</p>
+
+
 
 <!--
 **SafraPC/SafraPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
