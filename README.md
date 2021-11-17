@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=safrapc&show_icons=true&theme=react" alt="SafraPC Stats" height=195 />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safrapc&layout=default&card_width=500&&show_icons=true&theme=react&langs_count=10" alt="SafraPC Stats" height=285 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safrapc&layout=default&card_width=500&&show_icons=true&theme=react&langs_count=10" alt="SafraPC Stats" height=485 />
   </span>
 </p>
     </div>
